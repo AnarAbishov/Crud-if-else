@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud_yeni", "crud yeni\crud_yeni.csproj", "{564A5DE8-AE70-4DA3-B61F-56357B4B653F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564A5DE8-AE70-4DA3-B61F-56357B4B653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564A5DE8-AE70-4DA3-B61F-56357B4B653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564A5DE8-AE70-4DA3-B61F-56357B4B653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564A5DE8-AE70-4DA3-B61F-56357B4B653F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD61419D-5DE4-48F0-826A-6A73EDBA5CC0}
+	EndGlobalSection
+EndGlobal

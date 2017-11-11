@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\crud yeni.exe.config
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\crud yeni.exe
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\crud yeni.pdb
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\crud yeni\crud yeni\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud_yeni.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud_yeni.Form1.resources
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud_yeni.Properties.Resources.resources
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud_yeni.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud_yeni.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud yeni.exe
+C:\Users\Dell\Desktop\crud yeni\crud yeni\obj\Debug\crud yeni.pdb
